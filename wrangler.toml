@@ -4,4 +4,4 @@ compatibility_date = "2024-01-01"
 account_id = "049ff5e84ecf636b53b162cbb580aae6"
 [[kv_namespaces]]
 binding = "FLEET_KV"
-id = ""
+id = "541c2931681148d196bf6e6d5891fc09"
