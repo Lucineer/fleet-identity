@@ -1,1 +1,12 @@
-{"name":"fleet-identity","type":"cocapn-vessel","version":"1.0.0","fleet":"https://the-fleet.casey-digennaro.workers.dev","cocapn":"https://cocapn.ai"}
+{
+  "name": "fleet-identity",
+  "type": "cocapn-vessel",
+  "version": "1.0.0",
+  "fleet": "https://the-fleet.casey-digennaro.workers.dev",
+  "cocapn": "https://cocapn.ai",
+  "capabilities": [
+    "self-awareness",
+    "priority-management",
+    "conflict-resolution"
+  ]
+}
